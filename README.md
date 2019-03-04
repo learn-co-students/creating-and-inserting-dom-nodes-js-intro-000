@@ -1,3 +1,6 @@
+
+
+
 ## Creating and Inserting DOM Nodes
 
 ## Objectives

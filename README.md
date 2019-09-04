@@ -75,7 +75,7 @@ for (let i = 0; i < 3; i++) {
 element.appendChild(ul);
 ```
 
-Hm, that looks a bit ugly. Let's fix it
+Hm, that looks a bit ugly. Let's fix it!
 
 ```javascript
 ul.style.textAlign = 'left';

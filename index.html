@@ -1,13 +1,4 @@
-<!DOCTYPE html>
-<html>
-
-  <head>
-    <title>Creating and Inserting DOM Elements</title>
-  </head>
-
-  <body>
-    <main id="main"></main>
-    <script src="js/index.js"></script>
-  </body>
-
-</html>
+var element = document.createElement('div');
+element.inerHTML = 'Hello, DOM!';
+element.style.backgroundColor = '#f9f9f9';
+document.body.appendChild(element);
